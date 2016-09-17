@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="my_nanodegree_text">My Nanodegree Apps!</string>
+
+    <string name="app1_package_name">""</string>
+    <string name="app1_name">Popular Movies</string>
+    <string name="app2_package_name">""</string>
+    <string name="app2_name">Stock Hawk!</string>
+    <string name="app3_package_name">""</string>
+    <string name="app3_name">Build It Bigger</string>
+    <string name="app4_package_name">""</string>
+    <string name="app4_name">Make Your App Material</string>
+    <string name="app5_package_name">""</string>
+    <string name="app5_name">Go Ubiquitous</string>
+    <string name="app6_package_name">""</string>
+    <string name="app6_name">Capstone</string>
+</resources>
